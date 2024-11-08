@@ -3,4 +3,4 @@ This is the repository for the MeowMonitor chrome extension. The MeowMonitor chr
 
 You can find the newest version of the chrome extension [here](https://github.com/Memez4Life7/MeowMonitor/releases/tag/v1.0.0).
 
-Or you can download it from the chrome web store here: [here](https://chromewebstore.google.com/detail/meowmonitor/nploachnbkfiaeilbiiifadmijcihhll?hl=en).
+Or you can download it from the chrome web store [here](https://chromewebstore.google.com/detail/meowmonitor/nploachnbkfiaeilbiiifadmijcihhll?hl=en).
